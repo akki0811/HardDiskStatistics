@@ -1,5 +1,5 @@
 # HardDiskStatistics
-To compute the Hard Disk Statistics (Codility Challange)
+To compute the Hard Disk Statistics (Codility challenge)
 
 A string is passed S= "my.song.mp3 11b\ngreatSong.flac 1000b\nnot3.txt 5b\nvideo.mp4 200b\ngame.exe 100b\nmov!e.mkv 10000b"
 which contains difference types of files with there sizes separted with next line.
@@ -14,3 +14,4 @@ The final output should give the total size of each type eg:
 movies 10200b
 music 1011b
 others 105b
+
